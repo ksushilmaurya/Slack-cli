@@ -1,4 +1,4 @@
-#Slack Cli
+#Slack Cli 
 
 Slack cli is a command line interface tool which can be used to consume slack apis.
 
